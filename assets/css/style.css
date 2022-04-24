@@ -8,6 +8,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+/*CUSTOM CSS - RKJ*/
+
+.img-margin{
+  margin-top: 50px;
+}
+
+/*END OF CUSTOM CSS - RKJ*/
+
 body {
   font-family: "Inconsolata", monospace;
   color: #0d1e2d;
